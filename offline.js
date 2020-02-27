@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1582824741,
+	"version": 1582835696,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,9 @@
 		"images/rg-sheet0.png",
 		"images/ng-sheet0.png",
 		"images/ic-sheet0.png",
+		"images/disappearplatform-sheet0.png",
+		"images/horizontalscroll-sheet0.png",
+		"images/timestop-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
