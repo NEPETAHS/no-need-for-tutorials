@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1582858975,
+	"version": 1583828325,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,7 @@
 		"images/timestop-sheet0.png",
 		"images/timelauncher-sheet0.png",
 		"images/doublejump-sheet0.png",
+		"images/sprite-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
